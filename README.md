@@ -12,6 +12,7 @@ This project uses machine learning and orbital mechanics to analyze the impact o
 
 ## 📂 Folder Structure
 
+```bash
 space-militarization-analysis/
 │
 ├── data/                       # Raw and processed data
@@ -44,3 +45,4 @@ space-militarization-analysis/
 ├── environment.yml            # Optional: conda environment
 ├── README.md                  # Project overview and instructions
 └── .gitignore
+```
