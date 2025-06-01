@@ -1,0 +1,18 @@
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+xgboost
+lightgbm
+sgp4                # TLE propagation
+pyorbital           # Alternative for orbital modeling
+skyfield            # More accurate orbital calculations
+tqdm
+requests
+jupyterlab
+notebook
+pydantic            # For config schemas
+pyyaml              # If using YAML configs
+shap
+plotly              # Interactive plots
